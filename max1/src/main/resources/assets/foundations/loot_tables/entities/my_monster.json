@@ -1,0 +1,18 @@
+{
+  "pools": [
+    {
+      "name": "foundations:my_monster",
+      "rolls": 10      {
+          "type": "item",
+          "name": "minecraft:ender_pearl",
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald",
+          "weight": 2
+        }
+      ]
+          "type": "item",
+          "name": "minecraft:carrot",
+          "weight": 1
